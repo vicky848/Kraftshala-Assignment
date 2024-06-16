@@ -1,0 +1,22 @@
+.card-container{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    
+
+}
+.card{
+    height: 300px;
+    width: 500px;
+    background-color: transparent;
+    border: none;
+    margin-top: 20px;
+
+}
+.text-header{
+    color:#ffffff;
+
+}
+.text{
+    color: #ffffff;
+}
